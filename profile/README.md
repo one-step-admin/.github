@@ -1,12 +1,7 @@
-## Hi there 👋 test
+## 你好 👋
 
-<!--
+这里是 One-step-admin 专业版开发者的私有组织，只有组织成员才可以查看专业版源码噢~
 
-**Here are some ideas to get you started:**
+如果你想了解专业版，或者加入本组织，可以点 [这里](https://hooray.gitee.io/one-step-admin/buy.html) ( [备用地址](https://hooray.github.io/one-step-admin/buy.html) ) 详细了解。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+如果你并不需要使用专业版，可以点 [这里](https://gitee.com/hooray/one-step-admin) ( [备用地址](https://github.com/hooray/one-step-admin) ) 回到基础版仓库。
