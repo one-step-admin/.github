@@ -6,7 +6,7 @@
 
 基础版源码存放在 [one-step-admin/basic](https://github.com/one-step-admin/basic) 仓库内，以下是仓库分支说明：
 
-- `master` 框架源码分支，不含示例代码，可直接用于实际开发
+- `main` 框架源码分支，不含示例代码，可直接用于实际开发
 - `example` 演示源码分支，同线上演示站，包含大量示例，可用于参考学习
 
 如果你更注重使用时的稳定性，推荐去 [Releases](https://github.com/one-step-admin/basic/releases) 页面下载最新稳定版本的压缩包。
