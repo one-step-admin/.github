@@ -1,12 +1,7 @@
 ## 你好 👋
 
-这里是 One-step-admin 官方组织，在这里你可以随时获取最新源码（组织成员可以获取专业版源码）
+这里是 One-step Console 官方组织
 
-> 如果你想加入本组织并获取专业版源码，可以点 [这里](https://one-step-admin.github.io/buy.html) ( [备用地址](https://one-step-admin.pages.dev/buy.html) ) 详细了解。
+目前我们正专注服务付费用户以完善产品，一旦 Github 和 Gitee 均达到 500 Star 时，我们将提供开源基础版，并且也能有足够的信心进行长期维护。
 
-基础版源码存放在 [one-step-admin/basic](https://github.com/one-step-admin/basic) 仓库内，直接拉取源码可能会包含未发布的内容，推荐去 [Releases](https://github.com/one-step-admin/basic/releases) 页面下载稳定版本的压缩包。
-
-如果确定需要拉取源码，请参考下列分支说明：
-
-- `main` 框架源码分支，不含示例代码，可直接用于实际开发
-- `example` 演示源码分支，同线上演示站，包含大量示例，可用于参考学习
+如果你喜欢本产品，可以点个 ⭐ ，助力基础版更快问世，或者直接[购买专业版](https://one-step-admin.github.io/buy.html)，立即获取完整源码。
